@@ -5,7 +5,7 @@
 학번 : 201501658
 이름 : 손영준
 
-[https://youtu.be/VxGYRp8ID20]URL
+:movie_camera: 발표영상 링크 [https://youtu.be/VxGYRp8ID20]URL
 
 
 ### 1. 개요 및 요약
