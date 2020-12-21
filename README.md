@@ -110,9 +110,12 @@ Pivot으로 분석 중, 오른편과 같이 상대빈도수를 활용하여 형�
 ----
 
 #### Author
-
- + :flag: South Korea
- * :School: HUFS
- 
+*YEONGJUN SON, taegujun*
+ + :email: taegujun@gmail.com
+ + :kr: South Korean
+ * :school: HUFS
+ * :bust_in_silhouette: USCPA(unlicensed, MT)
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaegujun%2FHUFS_Project_Bluehouse&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+ 
  ![Taegujun's github stats](https://github-readme-stats.vercel.app/api?username=taegujun&show_icons=true)
