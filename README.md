@@ -1,9 +1,11 @@
-# Project _ Bluehouse
+# *Project _ Bluehouse*
 ## **청와대 민원게시판 빅데이터 분석을 통한 경제 동향 파악**
 
 한국외대 문화데이터포트폴리오 _ 손영준
 학번 : 201501658
 이름 : 손영준
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 ### 1. 개요 및 요약
  > [배경 및 목표]
