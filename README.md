@@ -102,9 +102,9 @@ Pivot으로 분석 중, 오른편과 같이 상대빈도수를 활용하여 형�
 ----
 
 
-### 4. 분석 결과
+### 4. 결론
 
-![Implications](https://user-images.githubusercontent.com/74249464/102790868-78ea6400-43e9-11eb-9e66-83ae7d5fd6d7.jpg)
+<img width="520" alt="Other pos" src="https://user-images.githubusercontent.com/74249464/102790868-78ea6400-43e9-11eb-9e66-83ae7d5fd6d7.jpg">
 
 
 
