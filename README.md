@@ -107,4 +107,8 @@ Pivot으로 분석 중, 오른편과 같이 상대빈도수를 활용하여 형�
 <img width="520" alt="Other pos" src="https://user-images.githubusercontent.com/74249464/102790868-78ea6400-43e9-11eb-9e66-83ae7d5fd6d7.jpg">
 
 
+----
 
+#### For more information
+
+ [![taegujun's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/taegujun/github-readme-stats)
