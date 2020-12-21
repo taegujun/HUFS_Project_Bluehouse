@@ -45,6 +45,17 @@
 ### 2. 분석 과정
 
  [데이터 스키마]
+ 
  아래와 같은 6가지의 카테고리를 CSV 형태로 추출
  
 ![1](https://user-images.githubusercontent.com/74249464/102789564-a7ffd600-43e7-11eb-8ded-d74fe2a48fa9.png)
+
+
+
+[데이터 분석 _ konlpy]
+
+CSV 형태로 도출해낸 Raw Data를 엑셀로 가공하여 Pivot으로 분석하는 과정을 거쳤습니다.
+
+Pivot으로 분석 중, 오른편과 같이 상대빈도수를 활용하여 형태소의 노출 빈도를 파악하여 그 중요도를 추론해내었습니다.
+
+<img width="489" alt="12" src="https://user-images.githubusercontent.com/74249464/102790058-4b50eb00-43e8-11eb-8c89-54bde8a2c3d1.png">
