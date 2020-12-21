@@ -48,7 +48,7 @@
  
  아래와 같은 6가지의 카테고리를 CSV 형태로 추출
  
-![1](https://user-images.githubusercontent.com/74249464/102789564-a7ffd600-43e7-11eb-8ded-d74fe2a48fa9.png)
+ <img width="489" alt="12" src="https://user-images.githubusercontent.com/74249464/102789564-a7ffd600-43e7-11eb-8ded-d74fe2a48fa9.png">
 
 
 
