@@ -5,7 +5,7 @@
 학번 : 201501658
 이름 : 손영준
 
-[![발표 영상 링크](https://youtu.be/VxGYRp8ID20)
+[https://youtu.be/VxGYRp8ID20]URL
 
 
 ### 1. 개요 및 요약
@@ -15,6 +15,8 @@
   게시판의 Raw Data를 기반으로 국민 여론과 경제 동향을 파악하고자 하였습니다.
 
   > [방법]
+   기본적으로 Google Colab 기능을 통하여 청와대 민원 게시판의 빅데이터를 추출하였고, 이를 형태소 분석기인
+   Konlpy를 통해 해석하였습니다.
    
 # Dillinger
 
