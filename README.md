@@ -9,33 +9,13 @@
 
 
 ### 1. 개요 및 요약
- > [배경 및 목표]
+ [배경 및 목표]
   >>본 리서치는 추후 경제 동향을 파악 하고자 하는 여러 이해관계자들의 수요를 인식하여 조사 및 분석을 진행하였습니다.
   많은 국민들이 자신의 의견을 피력하는 장소로 '청와대 민원 게시판'을 이용하기 때문에, 해당 보고서는 청와대 민원
   게시판의 Raw Data를 기반으로 국민 여론과 경제 동향을 파악하고자 하였습니다.
 
-  > [방법]
+  [방법]
    >>기본적으로 Google Colab 기능을 통하여 청와대 민원 게시판의 빅데이터를 추출하였고, 이를 형태소 분석기인
    Konlpy를 통해 해석하였습니다.
    
-# Dillinger
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
-
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
-
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
-
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
+----
