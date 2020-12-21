@@ -27,11 +27,22 @@
    
    
    
+   
+   
+   
+   
+   
+   
 ----
+
+
+
+
+
 
 
 
 ### 2. 분석 과정
 
  [데이터 스키마]
-
+![1](https://user-images.githubusercontent.com/74249464/102789370-696a1b80-43e7-11eb-9930-beb217257fc1.png)
