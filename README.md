@@ -5,7 +5,7 @@
 학번 : 201501658
 이름 : 손영준
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://youtu.be/VxGYRp8ID20)
 
 ### 1. 개요 및 요약
  > [배경 및 목표]
