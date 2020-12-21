@@ -1,17 +1,17 @@
 # Project _ Bluehouse
-## 청와대 민원게시판 빅데이터 분석을 통한 경제 동향 파악
+## *청와대 민원게시판 빅데이터 분석을 통한 경제 동향 파악*
 
 한국외대 문화데이터포트폴리오 _ 손영준
 학번 : 201501658
 이름 : 손영준
 
 ### 1. 개요 및 요약
-  [배경 및 목표]
+ > [배경 및 목표]
   본 리서치는 추후 경제 동향을 파악 하고자 하는 여러 이해관계자들의 수요를 인식하여 조사 및 분석을 진행하였습니다.
   많은 국민들이 자신의 의견을 피력하는 장소로 '청와대 민원 게시판'을 이용하기 때문에, 해당 보고서는 청와대 민원
   게시판의 Raw Data를 기반으로 국민 여론과 경제 동향을 파악하고자 하였습니다.
 
-   [방법]
+  > [방법]
    
 # Dillinger
 
@@ -24,19 +24,6 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
   - Type some Markdown on the left
   - See HTML in the right
   - Magic
-
-# New Features!
-
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
-
-
-You can also:
-  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
-  - Drag and drop markdown and HTML files into Dillinger
-  - Export documents as Markdown, HTML and PDF
-
-Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
 
 > The overriding design goal for Markdown's
 > formatting syntax is to make it as readable
