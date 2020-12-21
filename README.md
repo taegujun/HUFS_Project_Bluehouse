@@ -109,6 +109,6 @@ Pivot으로 분석 중, 오른편과 같이 상대빈도수를 활용하여 형�
 
 ----
 
-#### For more information
+#### Author
 
- [![taegujun's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/taegujun/github-readme-stats)
+ [![taegujun's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/taegujun/HUFS_Project_Bluehouse/edit/main/README.md)
